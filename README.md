@@ -1,7 +1,9 @@
 __Food Recipe Searcing Web-Application with React__
 
+##
 
 **USED TECHNOLOGIES**
+##
 
 **-** React.js (with React Hooks)
 ##
